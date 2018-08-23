@@ -1,3 +1,3 @@
-printf("Zavaire Ingram - Computer Science\n");
- printf("Raven Kottke- Computer Science\n");
+Zavaire Ingram - Computer Science
+Raven Kottke- Computer Science
 https://github.com/RavenKottke/helloworldhack
